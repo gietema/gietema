@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		"body {\n    background: #e7eaea;\n    font-family: 'Libre Franklin', sans-serif;\n\n}\n.hero {\n    text-align: center;\n    height: calc(100vh - 120px);\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n    \n    h1 {\n        font-size: 2.5em;\n    }\n}"
+		"body {\n    background: #e7eaea;\n    font-family: 'Libre Franklin', sans-serif;\n\n}\n.hero {\n    text-align: center;\n    height: calc(100vh - 120px);\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n    \n    h1 {\n        font-size: 2.5em;\n    }\n}\n.links {\n    font-size: 1.2em;\n    margin: 0 auto;\n    margin-top: 20px;\n    display: flex;\n    max-width: 300px;\n    a {\n        margin: 0 10px;\n    }\n}\n\na {\n    text-decoration: none;\n    color: inherit;\n}"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,IAAI,CAAC,EACD,UAAU,EAAE,OAAO,EACnB,WAAW,EAAE,4BAA4B,GAE5C;;AACD,AAAA,KAAK,CAAC,EACF,UAAU,EAAE,MAAM,EAClB,MAAM,EAAE,mBAAmB,EAC3B,OAAO,EAAE,IAAI,EACb,cAAc,EAAE,MAAM,EACtB,eAAe,EAAE,MAAM,GAK1B;;AAVD,AAOI,KAPC,CAOD,EAAE,CAAC,EACC,SAAS,EAAE,KAAK,GACnB"
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACD,UAAU,EAAE,OAAO,EACnB,WAAW,EAAE,4BAA4B,GAE5C;;AACD,AAAA,KAAK,CAAC,EACF,UAAU,EAAE,MAAM,EAClB,MAAM,EAAE,mBAAmB,EAC3B,OAAO,EAAE,IAAI,EACb,cAAc,EAAE,MAAM,EACtB,eAAe,EAAE,MAAM,GAK1B;;AAVD,AAOI,KAPC,CAOD,EAAE,CAAC,EACC,SAAS,EAAE,KAAK,GACnB;;AAEL,AAAA,MAAM,CAAC,EACH,SAAS,EAAE,KAAK,EAChB,MAAM,EAAE,MAAM,EACd,UAAU,EAAE,IAAI,EAChB,OAAO,EAAE,IAAI,EACb,SAAS,EAAE,KAAK,GAInB;;AATD,AAMI,MANE,CAMF,CAAC,CAAC,EACE,MAAM,EAAE,MAAM,GACjB;;AAGL,AAAA,CAAC,CAAC,EACE,eAAe,EAAE,IAAI,EACrB,KAAK,EAAE,OAAO,GACjB"
 }
