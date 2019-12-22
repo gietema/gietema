@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		".current {\n    color: green;\n}"
+		"body {\n    background: #e7eaea;\n    font-family: 'Libre Franklin', sans-serif;\n\n}\n.hero {\n    text-align: center;\n    height: calc(100vh - 120px);\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n    \n    h1 {\n        font-size: 2.5em;\n    }\n}"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACf"
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACD,UAAU,EAAE,OAAO,EACnB,WAAW,EAAE,4BAA4B,GAE5C;;AACD,AAAA,KAAK,CAAC,EACF,UAAU,EAAE,MAAM,EAClB,MAAM,EAAE,mBAAmB,EAC3B,OAAO,EAAE,IAAI,EACb,cAAc,EAAE,MAAM,EACtB,eAAe,EAAE,MAAM,GAK1B;;AAVD,AAOI,KAPC,CAOD,EAAE,CAAC,EACC,SAAS,EAAE,KAAK,GACnB"
 }
